@@ -1,5 +1,5 @@
 ---
-title: Tha First Article
+title: The First Article in DOM
 author: My name is
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae
